@@ -1,2 +1,3 @@
-100 + 200
-print('hello world')
+print("PLZ insert your name")
+name = input()
+print("your name is",name)
